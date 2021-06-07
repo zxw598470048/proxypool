@@ -1,8 +1,8 @@
 # your domain
-domain: pachongdalao.herokuapp.com
+domain: pachongfree.herokuapp.com
 
 # database url
-database_url: "test.pachongdalao.herokuapp.com"
+database_url: "test.pachongfree.herokuapp.com"
 
 # cloudflare api
 cf_email: ""
@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://example.com/source.yaml
+  - https://pachongfree.herokuapp.com/source.yaml
