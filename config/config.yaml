@@ -1,8 +1,8 @@
 # your domain
-domain: example.com
+domain: pachongdalao.herokuapp.com
 
 # database url
-database_url: ""
+database_url: "test.pachongdalao.herokuapp.com"
 
 # cloudflare api
 cf_email: ""
